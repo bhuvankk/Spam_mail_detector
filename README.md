@@ -10,3 +10,5 @@ This project has three major parts :
 model.py - This contains the code for Machine Learning model to predict if a message is Spam or ham.
 app.py - This contains Flask APIs that computes the precited value based on the model and returns it.
 templates - This folder contains the HTML template to allow user to enter the message.
+
+Heroku deployment link : https://spam-mail-detection-flask.herokuapp.com/
